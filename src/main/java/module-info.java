@@ -4,4 +4,5 @@ module java.update.kurs {
     requires java.sql;
     requires java.net.http;
     requires org.slf4j;
+    requires io.reactivex.rxjava3;
 }

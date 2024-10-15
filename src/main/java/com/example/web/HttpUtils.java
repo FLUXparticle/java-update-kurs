@@ -8,6 +8,13 @@ import java.util.stream.Stream;
 
 public class HttpUtils {
 
+    public static void time(Runnable runnable) {
+        long start = System.currentTimeMillis();
+        runnable.run();
+        long end = System.currentTimeMillis();
+        System.out.println((end - start) + " ms");
+    }
+
     // Methode, die einen GET-Request an die gegebene URL ausführt und die Antwort als Stream von Zeilen zurückgibt
     public static Stream<String> getResponseLines(String urlString) throws Exception {
         URL url = new URL(urlString);

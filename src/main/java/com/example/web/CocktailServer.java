@@ -65,7 +65,7 @@ public class CocktailServer {
                     // Cocktails anzeigen
                     while (resultSet.next()) {
                         try {
-                            Thread.sleep(100);
+                            Thread.sleep(10);
                         } catch (InterruptedException e) {
                             throw new RuntimeException(e);
                         }
@@ -105,7 +105,7 @@ public class CocktailServer {
                     // Informationen zu den Zutaten abrufen
                     while (resultSet.next()) {
                         try {
-                            Thread.sleep(250);
+                            Thread.sleep(500);
                         } catch (InterruptedException e) {
                             throw new RuntimeException(e);
                         }
