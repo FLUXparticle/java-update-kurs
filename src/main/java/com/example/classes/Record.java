@@ -6,6 +6,8 @@ public class Record {
         var x = new Complex(5);
         var y = new Complex(5, 4);
 
+        System.out.println(x.equals(y));
+
         System.out.println("x = " + x);
         System.out.println("y = " + y);
     }
