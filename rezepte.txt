@@ -1,0 +1,970 @@
+Creamy Screwdriver:1,4,40,42
+BBC:35,39,32
+Bali Dream:5,55,54,20
+Pinky Colada:5,20,18,54,15
+La Playa:32,138,52,20,51,8,74
+Cennet's Best:24,34,4
+Sweat Milk:19,34,4
+Lime Cooler:1,42,21,62
+Bloody Mary:140,1,8,135
+Exotic Punch:12,20,4,17
+Green Dream:19,16,4,20
+Malibu Ananas:53,20
+Guadeloupe:126,5,54,20,12
+Vanillemilch:5,127,67,34
+Der Gurgler:49,27
+Pineapple Bomb:61,20,24
+Süße Versuchung:18,15,31,54,4,8
+Strawberry Colada:77,20,32,41
+The Power of Cuarenta y tres:14,21,3,12,13
+Electric blue:16,111,8,54
+Virgin Caipirinha Tonic:44,7,37
+Virgin Coco Loco:54,15,20,4,12
+Aperol Italien Sling:79,26,8,42,4,10
+Gin Fizz:26,8,10,42
+Jay Jay:1,92,18,46,71,4
+Basilikum Daiquiri:116,42,7,5
+Brain Stew:63,1,39,11
+Wodka Fizz:1,8,9,10
+Drachenblut:11,12,18,8
+Jamaica Green:8,42,5,85
+Eldorado:45,27,73,4,51,20
+Perfect Manhattan (Medium Manhattan):57,58,60,59
+Bananen-Ananas-Milch:51,54,20,34
+Erdbeerwein-Cocktail:178,8,116,179,1
+Blonder Engel:4,83
+Fresh Claudia 2:74,173,92,15,42,5,35,24
+Black Russian:33,1
+Freddy Fudpucker:45,4,67
+Extravagant Port:142,91,126,62
+Bloody Brain:75,24,39,18
+Air Conditioner:1,27,6
+A Night at the Guti´s:1,53,2,54,51,20
+Rob Roy:64,58,59
+****Spice Oakheart****:93,20,21,31
+DanicocktailS:83,119
+Baracuda Bite:18,1,21
+Engelshooter:127,77
+Black Death:45,16,18,8,68
+Hot Toddy:26,8,42
+Fireman`s Sour:5,21,18,42
+Blue Müggi:7,106,16,31
+Orgasm:27,39
+Kamazine:61,59,71
+Speedy Gonzales:12,17,51,16
+Speedboat:12,71,34,51,52
+Tim:1,51,11
+Pink Pussycat:1,18,20
+Dirty Henny:24,6,4
+Kiss:5,83,43
+E+E:51,17,110,10,22,18
+Green Eyes:1,16,4
+Galliano Sour:67,64,8,42
+Hulk Sour:16,1,42,14,4,21
+Elefantenschwanz:5,35,72,39,19,32,15,4
+Fruit Punch:18,8,4,20,12
+Dreamcatcher:14,5,4,12,21,84
+Paulos Sunshine:71,5,16,20,18,19,15
+Jungle Grashopper:85,20,32
+Chinchilla:1,16,4,11
+Rum Gimlet:56,35,7
+scrampe:19,15,20,47,11
+Rumba:35,8,71,20,52
+Dreamsicle:14,34,4
+Berlin Master:1,49,4,20
+Ananascocktail:20,4
+Aperol Slammer:79,49,159,21,125,12,22
+Virgin Bird:19,5,20
+Blue Bird:26,49,59
+Clover:130,43,8,87
+Gin Tonic:26,44
+Ole Flip Mix:1,96,8,4,68,18
+Fantasy Island:18,12,44
+Angostura Fizz:8,42,59,87,10
+Ramcooler:5,67,21
+Double Rainbow:4,8,18,10
+Biercocktail &quot;Bapo&quot;:79,8,89,149
+Babuschkas - Chi Chi:15,1,19,20
+Sommernachtstraum:4,12,50,15
+Exotic Dream:4,12,54
+Painkiller:35,20,32,4
+Carry Coke:6,1,53
+Aperol Spritz sauer:80,79,10,8
+Stinger:21,42,49,10
+JoJo's Fly Over:8,74,35,27,50,34
+Rum Runner:21,20,5,35,59
+Strawberry Margharita (frozen):41,43,45,8
+Mint Tonic:100,42,8,44
+Green 43:16,14,26,21,12
+Cococabana:19,5,20
+Caribbean Wonder:20,51,15,5,13,16
+4cl  Tabasco:96,1,140
+Polar Bear:16,22,1
+Red Gin:26,63,21
+Moscow Mule mit Ginger Beer:1,8,184
+Pina Colada ohne Ananassaft:19,5,8,4
+Red Apple:1,25,18,28,110,11
+Blue Cherie:52,13,15,20
+Pink Blue:20,15,43,11,17,52
+Ladykiller:2,1,18,20,21,8
+New York:57,21,9,18
+Moscow Mule:1,8,31
+Chicago Freestyle:1,26,5,61,16,56,8,20,4
+Pina Colada:5,20,15,32
+Tropical Cooler:71,12,8,62
+Tropical Derby:18,12,4,20,26,8
+Blue Jeans:20,1,17,16
+Barbados Sunrise:18,4,77,21,12
+Mexican Sunset:45,27,4,8,50
+Tequila Sour:45,8,42
+Secret Dream:34,12,1,14,2
+Kokospool:4,20,54,5,16
+Southern Comfort Sour:61,42,8
+Hensirazzer:111,1,2,3,20,18
+Dream of Grenada:54,18,15,20
+Steine im Kopf:75,16,20,18
+Green Shark:35,7,16,44
+Santo Libre:7,35,22
+Roter Kokostraum (100% Bio):110,28,47,122,21
+Mini Wernes:4,1,21,18
+Mojito:37,38,5,10,7
+Jim Julep:30,37,31
+Rosa Lady:14,1,12,20,51,15,18,32
+Tequini:45,60
+Pink Lady:26,27,8,18
+Blue Bay:16,62
+Blue Russian:16,1,42,10
+Gin Sunrise:26,4,8,18
+Deep:16,1,8,11,10,22,18
+Sueno 43:14,43,25,12,4,15
+Coco Cherry:11,20,32
+Touch Down:21,1,18,25,12
+Siesta Mejicana:45,9,17,10
+Leap Frog:26,31,8
+Crazy-Drink:15,28,4,31,18,10,9,8
+Gin an It (Sweet Martini):26,58
+Batida 43:14,19,15
+Tropic Bitter:69,26,27,4,146
+Fizzy Fire:50,18,8,4,22
+China Böller D:42,35,8,12,157
+Chocobanana:19,5,51,36,32,15
+Grapemint:130,100
+Orange Mojito:106,1,35,44,38
+Blue Dram:16,4,1
+Twin Peaks:49,30,174,21
+Wyborowina:1,17,62,2
+Cranberry Cooler:26,156,4
+Fresh Jungle:20,21,100,10
+Waikiki Beachcomber:26,27,20
+****spice dream****:20,4,12,93
+7&amp;7:30,22
+Big Ben:8,26,4,62,18
+Touchdown:1,25,12,18,8
+Green Poison:53,16,45,8,12
+Sweat Dream:26,49,18,12
+BMW:39,53,30
+Envy:5,24,21,16,20
+Flaming Nico:5,18,4,35
+Julia:5,64,51,11
+Blue Monday Tonic:26,27,44,16
+Libertiny:26,16,21
+Butschi Butschi:39,1,24
+Oldesloer Nordlicht:94,101,8,4
+Urlaub:53,32,56,125,46
+Singapore Sling:26,86,20,21,27,18,59
+Batida Lemon:19,63,4,62
+Sidecar:103,27,8
+Malibu Banana:73,53,15
+Monkey Pipi:1,16,122,28
+Batida 43 Smoothy:19,14,4,34,15
+Wrong turn:8,22,45,16
+Gin Sour:26,8,9
+Sex Machine:45,2,50,74,20
+Pink Rose:26,18,8,15,87
+Erdbeer Caipiroska:1,43,37,7
+Crany Eddy:1,3,28
+Johanna Caribe:21,27,5,110
+Screwdriver:1,4
+Banana Papa:55,5,54,15,20,114
+Explosion:74,3,15,73,38
+Liebestraum:2,16,53,8,20
+Gimlet:26,21
+Pina Colada L.a.-Mix:15,20,32,35
+Sevilla:26,154,8,4,42
+Kiss me:59,49,103,10
+Uncle G's:14,25,1,15,12,118
+Million Dollar:26,58,60,20,87,59
+Rain Drop:18,4,12,31,9
+Margarita:45,49,8,112
+Green Slimer:4,1,99,100
+Swimming Pool Variante:1,16,15,20,32
+Caribean Sunrise:18,87,20,8,32
+White Cloud:1,102,15,20
+Orange Flip:19,4
+Smoky Martini:26,64
+Hagenberger:46,20,4,16,53,35
+Grappatto:130,163,8
+Teuflischer Orgasmus:83,33,96,39
+Sandy Sour:64,8,42
+Grapefruit Highball:17,18,10
+Coco:32,20,15
+Little Bandit:14,2,84,12,3
+El Presidente:5,60,27,18
+Southern Wheeler:4,64,8,24,61
+Tropenzauber:74,17,51,18,44
+Kein Name:4,5,18
+Baki:51,5
+Golden Pineapple:126,20,7
+Pink Daiquiri:77,18,8
+Elisabeth:26,25,16,20,4,8
+Lust:24,16,8,20
+Joanna's Love:131,54,110,4
+Angel Blue:1,16,22
+Whiskey Sour mit Ei:30,8,81,87
+Chérie:103,43,20
+Gin Sling:26,8,9,10
+Fresh Claudia:15,173,74,92,81
+Blue Ozean:19,16,4,31
+Port Wine Cobbler:142,49,42
+Amaretto-Orangen-Cooler:64,24,8,4
+African Queen:131,11,34
+Blütenmond:10,122,25,139,21,8
+Waldmeister Tai:5,16,24,8,20,4
+Sex on the Beach:1,2,4,3,81
+sweet green sweet:4,28,56,18,16
+Slow comfortable screw against the wall:26,1,67,61,4
+City at Night:1,156,138,119,12,4
+Shirley Tmple:8,18,42,31
+T65:45,35
+Grüne Witwe:4,16,20
+Drachenblut mit Wodka:1,11,12,18
+Türkise Sucht:19,16,4,15
+Blutorange:4,18,8
+Becky:24,18,12,15,20,4
+easy Berlin Master:1,4,20
+Green Mamba Spezial:14,16,17,12,8,15,18
+Cuba Libre:5,6,7
+Orgasmus Shot:96,39
+Grasshopper:5,85,15
+Milchshake Karibik:51,20,113,16
+Schlumpfpipi:16,22,1
+Blue Hawaii:47,20,4,8,16
+Manhattan No. 2:26,58,59
+Orange Blossom:26,4
+Manhattan:57,58,59
+Gespritzter:80,10
+Sweet Armageddon:30,5,24,27,43,84,18,71,4
+Virgin Chocobanana:51,34,36,54,32,15
+Silver Fizz:26,8,9,87,10
+Negroni:26,58,69
+Melon Me:177,4,28
+Sex on the Beach (Fritz edit):1,94,2,4,20,18
+Veneziano:80,79,10
+Bananaboat:51,73,147,21,15,126
+Atomic Bomb:75,91
+Ramazzotti Red Sun:28,29,8,18
+Coconut Dream:15,73,102,32
+Gin &amp; Sin:26,18,8,4
+Moskow water:1,8
+Dallas:16,73,19,20
+Andrea:52,50,8,4
+After Eight (Digestif):85,123,15
+Dirty Harry:33,24,47,15,36
+Kiba de Coco:19,11,51,15
+Island Affair:1,49,94,4,20
+blue tropic:52,56,51,20
+Fresher Malibu:4,53
+Bitterer Pfirsich:74,69,160,103
+Mer du Sud:31,20,27,16
+Lady Sunshine:61,71,31,1
+Springtime:27,1,4
+Coconut Gin:143,32,8,26
+Green Cat:4,20,15,16
+Baby Colada:54,15,20
+Karussel (Alles dreht sich):6,8,35,1,45
+White Russian:1,33,15
+Flisvos Spezial:5,27,20,16,18
+Scorpion:49,21,91,4,5,35
+Batida de Coco Shake:15,19,34
+Frappè Saint:18,4,8,20
+****Steffi`s  Curacao****:16,32,51,4
+Marabu:12,53
+Allez les Bleus:16,92,1
+Callito:21,18,16,4,20,37
+Mai Tai:27,5,35,24,20,4,18
+Mafa Killer:1,111,5,15,11,18,156,122
+Banana Boat Shake:35,73,21,12,5,8
+Los Angeles oder L.A.:64,8,115,42,66
+Nussknacker:10,8,9,116,117
+Janus:20,45,4,16,2
+Greyhound:1,17
+Long Island Ice Tea:1,26,45,27,5,4,8,6
+A.L.G.:127,31,21
+Florida Comfort:61,8,18,4
+Malibu Multi:53,48
+Green Banana:52,55,4
+Kingston Town:27,5,55,16,20
+Real Rum Sour:35,8,42
+Fluffy Duck:5,83,4,27,15,149
+Capri:1,49,12
+Affinity:58,60,64,146
+Night in Blue:16,19,20
+Shrek:94,16,4,1
+&quot;4444&quot; Baileys Creme Eis:39,4,48,122
+Mississippi Malibu:53,45,43,12
+California Sun:125,48,51,8
+Koblenz Green:64,26,25,49,114
+Christmas:24,12,32,15
+Apricot Sour:25,8,4
+Green Girl:52,8,4
+Strittmatter`s light summer:1,25,108,15,12,125,18
+Tramonto:1,119,70
+Pink Panther:18,20,19
+Between the Sheets:8,27,5,91
+Frozen Daiquiri Strawberry:41,21,43,42,5
+3D Wodka:1,18,8
+Alabama Slammer:26,61,4,24
+Summer Wind:48,4,28,47,15
+Happy Mother:91,33
+Blue Apple:37,54,28,16,8
+Belfast Cooler:8,31
+Choco Colada:33,34,35,5,15,32,36
+Bauernklappse oder Landei:40,116,34
+Tropic Star:20,4,12
+Fire on Ice:27,35,8,4,18
+Feuerloescher:26,175,101,18
+Wodka Sour:1,8,42
+Batida Kirsch:19,11
+Peaches &amp; Cream:19,2,15,74
+Tequila Nightfall:45,6,28
+Porter´s Swimming pool:1,16,15,20,32
+Paris Opera:16,5,17
+Maxima:3,19,122
+Brasilian Apple:7,37,56,4,171
+Baby Blue:5,19,16,15,34
+Lousiana:25,26,17
+Orange Fizz:26,8,4,9
+Lovely Bird:14,67,5,12,15
+B52 Cointreau:33,39,27
+Grüne Kokosnuss:8,20,16,54
+Après Ski:83,34
+Amaretto Apfelsaft:24,28
+Spanish Temptation:11,4,12,13,14,15
+Lollipop:54,20,4,15,43
+Tequlia Sunrise II:18,4,45,8
+Peach Blossom:8,2,5,15,18
+Tiefseetaucher:8,56,9,27,5,35
+Leichtmatrose:8,21,42,5,35
+Miami Dolphin:24,16,61,4,20,8
+Roadster:4,15,73,18,25
+Love Passion:20,51,19,18,4
+El Bedaro:166,180,181,21,12,118,18
+AIDA Spezial:8,18,4,23,20,61
+Orange Fresh:4,8,20,31,10
+Wodkatini:1,60
+&quot;454&quot; Wodka:1,79,4,122,24,30
+Grand Duchess:1,49,3,4
+Mali-Kirsch:11,53
+Presidente:5,60
+Shootystar:103,5,1,22,92
+Der Antideutsche:35,49,3,21,13
+Cocos Egg Nog:20,66,32,15,34
+Blue Lagoon:16,22,1
+Cosmopolitan:27,8,1,3
+Simply Rum:20,8,32,18,5
+Pussy Foot 2:17,4,18,10
+Mamba:33,103,83,6
+White Brazilian:5,19,34,24
+God Mother:1,24
+Velvet Hammer:27,33,15
+Hot Legs:35,5,16,20,32,8
+Porters Wodka shot:1,8
+Funny Fresh:135,155,12,18,4
+Tropical Sunset:1,165,12,81,16
+Chaotic Strawberry:53,96,118,20,4,38
+Noch ohne Namen:79,43,56,3,22
+Hot Lips:4,27
+Anastasia:8,28,4,20,31
+Egg Sour:91,49,8,9,66
+Claudia's Harvey:1,27,42,17,67
+Daiquiri:5,21,42
+Red Sky:56,20,11
+Yellow Fun:138,8,12,74
+Alice Deluxe:20,4,15,18,1
+Gougon:14,4,12,8
+Mellow Yellow Bird:5,27,67,20,4,21
+Appletini:101,1,28,8
+Coconut Kiss:20,15,4,32
+Watermelonman:94,8,18,1
+Swampwater:4,16,35
+Sweet Temptation:43,15,20,12,74,19,5
+Blue Butterfly:8,4,16,75,22
+Moscow Apple:7,28,1
+Tom Collins:26,8,42,10
+Prince:14,15,45,32,12
+Fiesta:12,15,4,70
+Bora Bora:12,20,51,32
+Aquari Pool:52,20,15,32
+Candy:14,12,51,43
+Robinson Crusoe:5,20
+Yellow Sunshine:20,8,4,17
+Vesper:1,26,60
+Curako:101,16,59
+Gay Heaven:14,61,24,18,34
+Wodka Gimlet:1,56
+Alien in Love:4,20,54,114,21,5,35
+Wodka Highball:1,62
+Scandinavian Sunshine:5,35,51,4,8,106
+&quot;69&quot; Aprico:4,111,148
+Cherry Coco Kiss:54,15,5,11
+Caipi a la Dready:7,106,10,71
+Blueorange Margarita:45,49,16,4
+Ricorico:4,46,20,17,35,150,18
+Continental:5,8,85,21,42
+Dolce Amaro:169,105,170,81
+Helsinki Saphir:16,1,172,10
+Maiden's Blush:26,75,18
+Spring Fever:4,20,12,11,46
+Waikiki:1,20
+Red Russian:1,63
+Caribbean Nightmare:35,47,6
+Troublemaker:26,25,8,18
+Big Django:30,58,14,182,153,121
+Barbados Swizzle:7,5,42,59
+Happy Peach Trip:2,6,1,5,45
+Cherry Bliss:11,4,10
+Golden Girl:25,1,4
+Margarita Original:27,45,8
+Miami Park:24,5,1,43,50,4,15,11
+Bronx:26,58,60,4
+New Coke:35,11,20,16
+Tonic Fresh:4,20,8,97,44
+Coconut Tequila:45,32,8,143
+Bossa Nova:67,5,27,20,8
+Derby:26,12,18,8
+Absinth Sunset:75,23,8,22
+Top Banana:73,1,4
+Caipirissima:7,37,5
+Kangaroo Jumper:1,16,20,47
+Porto Flip:142,91,40,9,15,136
+Malibu Passion:1,53,12,15,78
+Baileys Bomb:88,39
+Virgin Pina Colada:20,54
+Hot Coconut Chocolate:15,54,88
+Aruba Trade Wind:126,67,25,15
+Bacardi Special:18,21,26,5
+Disaronno Max:24,3,38,7,8
+Kirsch Tonic:56,11,44
+Air Mail:58,130,59
+Babylove:47,15,20,55
+Pinkes Früchtchen:5,17,18,10
+Joe Collins:1,8,42,10
+hangover:1,45,5,91,6,13,54
+White Lady:27,26,8
+Planters Punch IV:5,35,18,20,4,17
+Orange Milk:126,5,34
+Batida Sunrise:20,19,63
+24 Hours:45,76,6,15,9
+London Fever:26,5,8,18,10
+À la papa:1,16,54,4,8,15
+Drunken Sailor:21,8,18,1,17
+Blue Monday:26,27
+Biercocktail &quot;Blue Beer&quot;:1,16,89,22
+A capella:44,16,17,21
+Virgin Vampire:18,12,20,50,15
+Linux Cocktail:6,21,1
+Blue milk:20,34,16,35,5
+Olympic:91,49,4
+Mini Guiness:33,39
+Love Vegas:20,4,15,54,55
+Paradise:26,25,4
+ABC:75,30,27
+Aperol Sour:79,8,4
+Grüner Wicht:137,28,51,90
+Christini:1,49,16,21
+Südsee:49,16,20,31
+Sazerac:30,75,9,59
+Camurai:10,16,1,32
+Icezzy Fire:27,35,8,4,18
+Stille im Dschungel:24,19,54,98,34
+Aperol Italian Sling:79,26,8,42,4,10
+Malibu Twisted Pink:53,3,17
+Swamp Thing:16,1,19,21,51,12,20
+Red Lightning:1,60,11
+Ward Eight:57,8,4,18
+Süße Verführung:83,8,36,4,12
+Scarlet O'Hara:61,18,8
+Planter's Punch III:5,77,104,166,20,4,18
+Hot Milk Punch:91,42,34
+Amaretto Colada:24,15,54,20
+Marc's Prime:45,8,4,37
+Vooki:1,63,4
+Blue:16,8
+Frozen Margarita:45,49,21
+Schwermatrose:8,21,33,5,35
+Rum Fizz:5,8,9,10
+Shirley Temple:22,31,18
+Shot-te:20,45,75,12,8,9
+Amaretto Kirsch:24,11
+Sweet Martini:26,58
+Pineappleflip:20,4,40,10
+Planter's Punch:35,18,8,20,4
+Fat Man Running:35,16,21,31
+Proma:1,11,31
+Summer Feeling:156,74,20
+Hot go Lime:21,92,110,38
+Car Driver:20,8,18,31
+Dry Manhattan:57,60,59
+Gina's Coffee:50,35,8
+Orange Sunrise:56,4,18
+American Beauty:60,142,4,18,91
+ADI:26,1,27,98,77
+Gingerball:174,26,20,31
+Lumumba:36,123,91,34
+Bittersweet Bondage:4,1,44,18,20
+Cinderella:4,20,54,15,18
+Old Fashioned:30,107,59,10
+Muchacho:21,37,38,35,10,7
+Baileys Drink:39,34,40,9,8
+Young, Fresh and Beautyful:52,21,8,62
+Gold:56,8,12
+Sex on the beach:1,2,3,4
+Popsicle:24,4,15
+Multi-Blue Spezial Cocktail:16,1,48,20,4,8
+Blue Print:1,16
+Sex Appeal:18,8,49,103
+DJ Ladon's:53,48,35
+Porter´s Hurricane:35,5,71,21,4,20
+Caipiretto:24,11,7,37
+Black Sun:132,1,4,12,21,151
+Dry Martini:26,60
+Wodka Sunrise:1,8,20,16
+Barcardi Tonic:5,44
+Der rote Drache:133,18,34,19
+Canaria:21,4,17
+Pineapple Fizz:5,8,20,9,10
+Wodka Tonic:1,44
+Unschuldsengel:35,53,118
+Tropic Campari:69,26,126,4,146
+Sunflower:79,12,20,18,4,53
+Golden Sky Mountains:35,1,31,8,38
+Genova:26,130,96,60
+Apricot Fever:91,25,8,43,4
+Fresh Malibu:20,53
+Blue 2:16,21
+Planter's Punch II:35,4,20,8,18,42
+Süßer Traum:1,15,8
+Angel's Delight:18,49,168,15
+Long Island Ice Tea (light):45,35,1,26,27,21,4,6
+California Sour:30,8,4,9
+Sex on the beach (ohne Cranberry):18,1,2,4,20
+Jumping Jack:101,4,43,8
+Blue Lady:16,26,8
+Tropic Blue:46,51,32,15,52
+Virgin Colada:20,54,15
+Caipirol:79,37,7
+Banana Mama:5,54,55,15,20,18
+Bahama Mama:35,53,33,8,20,4
+Green Widow:16,4
+Glacier Express:56,8,17
+Don Frederico:5,25,67,18,4
+Marakana:61,25,14,49,24,18,12,20,4,8
+Tango:4,150,26,58
+Sportler:12,17,92,18
+Beach Beauty:1,73,18,4,44
+Sweet dreams:63,20,103
+Grass Skirt:53,5,20,8
+Goldfinger:8,138,62
+Süßes Bärchen:31,61
+Midnight in Moscow:1,16,17,44
+Sportsman:4,8,18,40
+Brittany 1:26,4,29,8
+Red Hours:58,26,139,21,9
+Alabama Fizz:26,8,42,114,10
+Nektarini:1,35,74
+Poolside Tropical:45,16,53,4
+Batida d´Orapple:4,28,19
+No Name:4,8,40,18
+Bonbon-Wunder:54,18,15,31,9,20,28,8
+Swamp poison:36,31,8,1,35,90,24,16,26,4,11,54
+Blanco 43 MARACUJA:14,34,12
+Juanita:5,47,20,62,4
+Bay Breeze:3,28,20,1,44
+Caipirinha alkoholfrei:7,37,31
+Dronk:5,106,121,145
+43'er mit Milch:14,34
+Red-Flack:18,103,10,48,1
+Caribbean Fruitpunch:52,56,8,12,20
+Wasted Time:53,5,21,12
+Bananarama:20,12,4,51,8,55
+Batida De Milchos:19,34,20
+Lemon Tai:62,50,21,8
+Blue River:52,20,12
+Bosom Caresser:97,66,34
+Golden Gate Sling:5,49,8,146,18
+Moskoje:1,74,12,17
+Touch down:1,25,12,4,8,18
+Aqua Velva:1,26,16,22
+****Tropenwunder Chris****:11,12,4,93
+Caribic Cassis:4,8,5,23
+Rum Alexander:35,123,15,136
+Florida:4,17,8,42,10
+Flying Kangaroo:5,1,67,47,15,4,20
+Milky Way:26,43,20,24
+Blue Kolibri:1,45,16,20,51,48,7
+Green Almond:50,52,20,4
+Sweet Frog:45,95,20
+Favourite Peach:2,1,20,46,8,18
+Absinth Curaçao Frappe:75,16,4,8
+Horse's Neck:30,31
+Kibaretto:11,51,24
+Daisy:26,8,18,42,10
+Tiramisu-Cocktail:128,33,24,15,98
+Gin Rickey:7,26,10
+Flaming Lamborghini:39,33,16,96
+Harvey Wallbanger:4,67,1
+Amazonas mit Rum:8,71,20,4,35
+Springtime Cooler:1,16,4,8,42
+Max:35,18,4,20
+Jack Cousteau:26,1,16,44
+Swimming Pool:20,15,16,5,1,32
+Simply Red:20,8,32,18
+Rose:60,63,86
+Rum Sour:5,8,9
+Blue Egg:83,5,126,56,4,16
+Kaioken:5,104,1,49,54,20,17,48,4
+Porter´s Mai Tai:35,50,21,8,4
+Fruit Highball:18,56,17,4,10
+John´s Blue Hawaii:5,27,16,15
+Cocomint:54,100,8,4,20
+Frittis:101,1,20,8
+Monkey Mix:4,73,44
+Lea Eva:32,4,15,20,55
+Coco Kiss:11,20,18,54
+Pink Baby:26,87,8,18
+Cosmo Special:1,49,3
+Peaches Cream:2,19,15,4
+Adios Motherfucker:1,35,45,26,16,22
+Brasiliero:14,45,32,71,15,34,4,8
+Whiskey Sour:30,8,9
+Sangria:5,82,22
+Chiquita Punch:73,4,15,18
+Angels Face:26,25,91
+Schächling:20,55,56,47,15
+Spain:12,15,18,14,1
+Crazy Mambo:14,43,4,25,15
+Frozen Tequila:45,20,8
+Chi Chi:1,47,20
+Valetine`s Cup:167,1,16,49,3
+Hemingway Sour:26,18,8,4
+Aperol Spritz:79,80,10
+Caipi Kurant:7,106,144
+Sonnenaufgang:4,18,8
+Strawberry Kiss:43,15,12,147,4
+Electric Ice Tea:16,26,5,45,49,1,22
+Cuba special:49,5,20,8
+Blinde Kuh:24,34
+Hemingway Special:5,17,21
+Louisiana Sour:30,49,71,20
+Softi:34,14,51,147
+Milky Day:154,24,34,59
+Honolulu Juicer:35,61,8,21,20
+Summerfeeling:129,20,74
+Zombie:20,4,8,71,18,5,27,35,72
+Alice:20,18,4,15
+Absinth Maracuja:75,26,12,49
+Apricot Cooler:25,8,18,31
+Acapulco:35,45,20,17
+Henry Smart:27,75,20,21,4
+Softy:91,27,82,4,20
+Korn Sour:101,8,42
+Big Mama:19,15,20,13,4,41
+Gentleman:8,25,1,14,18,12
+Stutenkerl:1,12,35
+White Portuguese:142,33,34
+Pink Perestroika:1,30,18,62
+Nina Sunrise:1,70,8,4
+Kamikaze:1,49,21
+Corall Sea:5,16,32,20,15
+Claridge:26,60,25,49
+Exotische Kirsche:71,20,4,8,54,37,11
+Get Cutter:2,43,17,14
+Amaretto Sour:24,4,8
+Peg O'my Heart:5,21,18
+Okennatt:16,167,62,10
+Green Passion:94,16,2,1,8,12
+Summertime:71,8,20,4
+Blue Cobra:53,16,20,8,44
+R. I. P.:45,1,26,49,18,21,8,12
+Edinburgh Summer:64,21,42,38
+Snake:5,77,104,4,8
+Apple Star:18,28,46
+Sweet Mexican:12,17,43,14,8,1,45
+Coconut Sperm:5,19,15,24
+Blinde Kuh 2:24,83,34
+White Snow:67,102,15,46
+Tropical Sunshine:4,2,49,46,12,3,18
+Windsurfer:1,16,4,71,21
+Screaming Orgasm:27,39,33,24
+Apricot Lady:5,25,87,7
+Amaretto Amore Mio:24,15
+Old Fashioned Cup:42,8,31
+White Amoure:14,73,34,20
+Scottie:64,18,12,20,2
+Banana Cool:73,16,4
+Banana Joe (goes nuts):20,51,15,32,24,5,73
+Solero:26,8,18,12
+Wolve's Blood:5,19,20,21,18
+Mish Mash:54,4,20,17
+Carabinieri:45,67,21,4,40
+Sugar Love:51,41,74,15
+SoCo &amp; Lime:21,61
+Frozen Daiquiri:5,21,42
+Paulchen Panther:79,26,8,158
+Holiday Dream:5,2,8,50,12,20,18
+Orange Cloud:26,5,28,4,34,149
+Coco Brazil:53,8,12
+Barcardi Cola:5,6
+Green Sour:90,26,8
+Killer-Cola:45,6
+Pancho's Punch:24,45,8,18
+Brandy Cobbler:91,49,42
+Gin and French:26,60
+Whiskey cocktail:59,42,30
+Kiba:11,51
+Korn Kir:101,23,110,10
+Green Ball:8,16,74,17,4
+Mango Cooler:1,27,4,8,147
+Miss Piggy (alkoholfrei):31,4,8
+London Frog:26,75
+Halali:7,90,20,137
+Blue Sky:48,4,47,8
+Green Morning:26,16,17,4,20
+Cloud 9:16,34,22
+Triple S (Sweet Sour Summer):104,27,8,42,4
+Southern Old Fashioned:9,59,10,61
+****Steffi`s  Batida Curacao****:16,19,51,4,15
+Balboa's Revenge:20,4,24,26,8
+Crema Gin:44,26,83,8
+Coconut Fruit:53,54,15,12,18
+Tschunk:5,106,7,121
+Pandora:111,67,53,138,12
+Uma Thurmann's Kiss:47,13,24,35
+Crusta:5,49,8,20
+Tomatenmilch:135,34,8,136
+Multi-Blue Cocktail:4,48,16,8
+Absinth Grapefruit:75,44,17
+Gummibärchen:61,31
+Golden Dream:15,4,67,27
+Kizz Me:132,3,21
+Hawaiian:26,4,49
+Question:15,14,51,43
+Lucky Driver:68,12,8,18
+Hurricane:35,5,71,4,20
+B52:33,39,72
+Caipiroska Strawberry:1,43,106,7
+B53:33,39,1
+B54:33,39,24
+B55:75,39,96
+Kiwistrauch:176,8,20,52
+Safer Sex on the Beach:20,125,129
+Balu Bear:18,8,12,139
+Stix-Mix:1,12,4,17,44,18
+Melon Menstruation:1,94,3
+Ambrosia:8,26,27
+Apple Frazzle:28,8,42,10
+Herzblatt:5,2,12,51,52
+Salty Dog:1,17,112
+Beau Rivage:5,26,58,60,4,18
+Barbara:1,123,15
+Ladykiller (original):27,25,26,20,12
+Miami Beach:1,24,5,4,56,34,18,11
+Brandy Fizz:91,8,9,10
+Gwara ni Nana:20,8,5,18
+Beautifull:60,5,26,18,4
+Pfefferminz Kokos Traum:34,114,54
+Franz der III:20,16,47
+Vanity:26,16,18,8,20
+Absinth Kamikaze:75,30,27,26,35,45,1,18
+Pink Bubbles:26,49,42,18,21,8,20
+Kleine Elfe:35,27,21,6
+Olé:45,73,16
+Not So Sweet Swimmingpool:16,26,15,8,20
+Coco Loco:35,4,53,12
+Tutti Frutti:71,4,20,15
+Gin Daisy:26,8,18,37,10
+Big Fake:4,5,18
+Caipi Mandarin:7,106,120
+Ramazzotti Sour:29,18,8
+Valderama:53,5,21,44
+Daviscup:4,8,18,21,62
+Cafe del Mar:166,5,8,12,4,18
+Mojo:5,56,37,6
+Bon Voyage:4,45,20,24,61
+Purple Haze:26,16,18,44
+Spezial:14,4,12,15,11
+Silver Sky Mountains:1,5,31,8,38
+Octopussy:18,11,8,20
+Kir:80,23
+Caruso:26,85,60
+Momo:4,8,127
+Perfect Martini (Medium Martini):26,60,58
+Batida Sperma:6,19,45
+Absinth Flip:75,27,8,66,9
+Abendsonne:15,51,18
+Don Rolando:8,42,5,85,10
+Virgin Cherry Coco Kiss:54,15,11
+Driver:51,12,20,138,52
+Speedy:52,12,17,51
+Kingston:53,25,43,15,12
+Tropenwunder:4,12,11
+Juicy Sunday:4,51,20,18,21,50
+www.43.de:14,45,15,46,18
+Sunshine Punsh:8,4,20,18,5,35
+Happy Driver:4,74,8,18
+Dolly (aus Florida):115,26,12
+43 Don Juan:14,4
+Ipanema:7,37,31
+Susan:5,24,20,8,37,62
+Amaretto Cooler:24,30,8,4,17
+Bacardi Orange:5,4
+Eskimoflip:10
+Warmer Brandy Egg-Nogg:91,66,9,34,136
+Schokisama:24,35,36,11,6,15
+KALASHNIKOW:1,107
+Gibson:26,60
+Havana Side-Car:35,27,8
+Yellow Banana:8,55,20,4
+Selda:34,73,32
+King Kong:51,5,12,55
+Safer Salmonellen Surprise:40,1,42,10
+Vampire:15,26,1,5,50,20,12,18
+Bond's Martini (Casino Royale):1,26,152
+Arletti:69,20
+Grasshopper original:102,85,15
+Lynchburg Lemonade:30,49,21,22
+Jidosh Mai Tai:42,35,16,50,21
+Roter Pina Colada:15,19,11,35
+Sweet Summertime:14,8,43,12
+Sonnenschein:8,50,62
+Brandy Eggnog:91,42,40,34,15
+Ginger Grape:103,139,31,8
+Virgin Tropical:20,28,18,54,44,8
+Sweet Pineapple:19,20,18
+Blue Moon:47,12,16,1
+Pisco Sour:164,42,87,8
+96:24,15,28
+Null Promillo:11,51,54,15
+San francisco:4,18
+Green Stuff:1,16,149
+Kumparinha:69,49,42
+Californian:138,56,4,17
+Ramazzotti Lemonade:22,29
+Deutschland-Shooter:5,43,141,12,56
+Porter´s sweet cocktail:35,4,20,16
+Tequila Sunrise:45,4,18
+Industrial Waste:10,16,15,18,5,47
+Bitchy Witchkiss:5,1,11,28,18,41
+Mexican Mule:45,31,7
+43er Ed von Schleck:14,13,84,12,4,43
+Wine Cooler:80,18,10
+Plaza:1,12,32,10
+Inflagranti:24,39,1
+Curenta Sour:14,8,4
+Tropical Red:26,105,4,17
+Mango Colada:46,54,15,5
+African Taste:19,73,51
+Dutch Slut:1,46,20
+A &amp; B:183,174
+Hulk:1,16,4,42,14
+Green Mamba:8,12,14,16,15
+Comfort Colada:20,61,32
+Eros:12,20,4,17,138
+Saoco:47,5
+Rum Cooler:35,8,18,10
+Port Mojito:21,38,142,5,10
+Tai Fruit Punch:20,12,18,8,4
+Choclate Monkey:5,123,25,15,36,124,125
+Brandy Flip:91,40,9,15,136
+Peach Sling:2,1,4,20,18
+Million Dollar Cocktail:26,60,20,59,87
+Absinth Margarita:75,45,49,8
+Quick Fuck:56,33,39
+Tequila Sunset:45,4,56,18,16
+Cointreau Caipirinha:27,7
+Petite Fleur:5,27,17
+porter´s sweet three Schicht Cocktail:4,10,50,18,16
+Golden Cadillac:102,67,4,15,136
+Orange Shot:49,4
+Pattys Dream:70,108,109,20,8
+Golden Fizz:26,8,9,40,10
+Jonny:1,8,16,18
+Banana Joe:73,5,47,20
+Indian Blue:19,16,20
+Pussy Foot:4,8,18,40
+Blow Job:39,1,15
+Liquid Fire:26,35,45,1,49
+Catkisses:20,4,54,15
+Horchata de chufa Kiss:97,8,118
+Dreierlei:4,17,20,8,9
+Fresh Summer:100,1,9,8,10
+Tarantino Shot:33,15,133
+Mint Julep:30,10,38,37
+Zorro:45,27,16,17,44
+Take Five:26,8,4,42,18
+Swimmingpool:35,1,16,54,15,4,20
+Smirl of Ice:137,6,68
+Killer Cool Aid:24,1,110,2,8
+Kiss in the Dark:36,13,84,15,98,34
+Blue Margarita:45,16,8
+Colonel Collins:30,8,42
+Godfather:64,24
+Jessy's Blue:74,4,54,71,52,15,21
+Baileys Tropic:39,16,20
+Nutty Colada:24,47,20,15
+Hannah Motana:20,4,18,65
+Blue Hawaiian:5,16,47,20
+Florida Milk:34,4,8,18
+Pacifico:8,45,71
+Baltic:1,16,12,8,4
+Love Bite:63,167,15
+Caipiroska:7,37,1
+Jungle Feever:21,16,71,17,14,1
+Clover Club:26,18,8,87
+Christel:28,17,74
+Caribbean Night:35,20,4,8
+Americano:10,58,69
+Baby blue:19,16,5,15,34
+Cherry Blossom:91,86,49,21,18
+Barcardi Cocktail:5,8,18
+Black Pearl:4,12,11,18,5
+Düsentrieb:43,74,8,4,20
+Virgil Russian:37,1,20
+Banana Split:1,123,37,55,4,51
+Matador:91,34,42,136
+Apfelcockail:28,4,137
+Rafaello-Cocktail:128,53,54,50,15,47
+Malibu Orange:4,53
+Lemon Cooler:42,8,31
+Coffee Kiss:5,15,33,36
+****Chris   Bacardi Gin****:31,4,93
+Long Island Ice Tea IBA:26,49,1,5,45,21,42,6
+Strawberry Daiquiri:41,5,42,8,43
+Black Forrest:143,123,1,4,11
+White Serbia:39,33,15
+Pussycat:4,20,15,52
+Yellow Almond:24,4,1,20
+Erdbeer Daiquiri:41,5,8,9,7,161
+Seven &amp; Seven:57,22
+Golden Dream IBA:49,67,4,15
+Uzmi Case:10,4,139
+Irish Black Russian:33,1,6,134
+Peach Lady:1,2,4,74,18
+Go-Go:6,106,8
+Blue Bounty:34,20,52,54,5
+Bertha:45,7,18,17
+Moskito:7,37,38,31
+Türkentraum:39,57,24,20
+Batida de Kiba:19,51,11
+Danibeer:20,18,34
+Baltimore Eggnog:35,91,162,66,9,136,34

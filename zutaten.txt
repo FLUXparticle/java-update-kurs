@@ -1,0 +1,184 @@
+31,Ginger Ale
+103,Weinbrand
+51,Bananennektar
+52,Blue Curaçao alkoholfrei
+171,Apfel Wodka
+129,Preiselbeersirup
+131,Amarula
+120,Absolut Vodga Mandarin
+139,roter Traubensaft
+73,Crème de Bananes
+87,Eiweiß
+33,Kaffeelikör
+157,Wodka Black
+32,Cream of Coconut
+3,Cranberry Juice
+100,Pfefferminzsirup
+143,Maraschino
+167,Parfait Amour
+86,Cherry Brandy
+6,Cola
+66,Ei(er)
+154,Sherry
+174,Bénédictine
+50,Mandelsirup
+54,Kokossirup
+40,Eigelb
+178,Erdbeerwein
+104,Bacardi Black
+144,Absolut Vodga Kurant
+36,Schokoladensirup
+44,Tonicwater
+83,Eierlikör
+18,Grenadine
+68,Blutorangensaft
+49,Triple sec
+175,Kirschwasser
+1,Wodka
+127,Ananassirup
+149,Orangen Limonade
+105,Orangenlikör
+180,Lycheelikör
+24,Amaretto
+4,Orangensaft
+114,Pfefferminzlikör
+89,Bier
+97,Himbeersaft
+27,Cointreau
+69,Campari Bitter
+138,Mangosirup
+15,Sahne
+71,Maracujasirup
+25,Apricot Brandy
+117,Pistazien
+76,Kaffee
+183,Armagnac
+64,Scotch Whisky
+133,Roter Wodka
+119,Eistee (Pfirsich)
+28,Apfelsaft
+10,Sodawasser
+106,brauner Rohrzucker
+112,Salz
+147,Mangonektar
+12,Maracujasaft
+45,Tequila
+79,Aperol
+8,Zitronensaft
+17,Grapefruitsaft
+116,Basilikum
+30,Bourbon Whiskey
+148,Aprikosensirup
+170,Espresso
+82,Rotwein
+96,Sambuca
+59,Angostura Bitter
+121,Club Mate
+169,Averna
+123,Crème de Cacao
+160,Johannisbeerlikör
+41,Erdbeeren
+168,Schlehenlikör
+80,Weißwein
+155,Karottensaft
+162,Madeira
+95,Grüne Banane
+130,Grappa
+77,Bacardi gold
+126,Grand Marnier
+63,Kirschlikör
+92,Zitronensirup
+102,Cream de Cacao White
+90,Waldmeistersirup
+151,Brombeersirup
+184,Ginger Beer
+13,Vanillesirup
+61,Southern Comfort
+165,Guavensirup
+23,Crème de Cassis
+94,Melonenlikör
+107,Würfelzucker
+22,Zitronen Limonade
+134,Guinness
+158,Rosensirup
+16,Blue Curaçao
+142,roter Portwein
+84,Karamelsirup
+29,Ramazzotti
+182,Pflaumenschnaps
+47,Kokosmilch
+145,Ohai Brause
+161,Doppelkorn
+75,Absinth
+48,Multivitaminsaft
+135,Tomatensaft
+141,Puschkin Black Sun
+65,Apfelschorle
+146,Orange Bitter
+43,Erdbeersirup
+99,Vanilleeis
+125,Pfirsichsaft
+11,Kirschsaft
+19,Batida de Coco
+153,Schwarzer Johannisbeersirup
+81,Rohrzucker-Sirup
+136,geriebene Muskatnuss
+53,Malibu
+88,heiße Schokolade
+26,Gin
+70,Himbeersirup
+56,Limettensirup
+57,Canadian Whiskey
+109,Honig
+14,Licor 43
+93,Bacardi Oakheart
+110,Johannisbeersaft
+113,Buttermilch
+37,Rohrzucker
+140,Tabasco
+137,Birnensaft
+166,Myer&#39;s Rum
+111,Bacardi Razz
+9,Zucker
+7,Limette(n)
+58,Vermouth rosso
+128,Wodka Vanille
+72,Rum Overproof
+98,Kakaopulver
+108,Yogurt
+181,Passoalikör
+67,Galliano
+74,Pfirsichnektar
+132,Passoa
+35,brauner Rum
+122,Kirschsirup
+179,Waldmeisterlikör
+20,Ananassaft
+46,Mangosaft
+85,Crème de Menthe
+101,Korn
+38,Minzeblätter
+172,Grapefruit-Limonade
+39,Baileys
+91,Brandy
+152,Lillet
+5,weißer Rum
+124,Zimtsirup
+2,Pfirsichlikör
+150,Curaçao Orange
+177,Wassermelonensirup
+55,Gelbe Banane
+78,Himbeeren (gefroren)
+118,Erdbeersaft
+156,Cranberry Sirup
+173,MandarinOrangenSirup (tritop)
+176,Kiwi
+42,Zuckersirup
+60,Vermouth dry
+34,Milch
+159,Maracujalikör
+21,Limettensaft
+62,Bitter Lemon
+115,Vermouth bianco
+164,Pisco
+163,Peach Brandy
