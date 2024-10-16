@@ -1,10 +1,11 @@
 package com.example.web;
 
+import io.reactivex.rxjava3.annotations.*;
 import io.reactivex.rxjava3.core.Observable;
-import java.util.List;
+import io.reactivex.rxjava3.schedulers.*;
+
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.stream.Collectors;
 
 import static com.example.web.HttpUtils.*;
 
@@ -15,8 +16,6 @@ public class CocktailClientWithRxJava {
     }
 
     public static void run() {
-        ExecutorService executor = Executors.newFixedThreadPool(5);
-
         try {
             // Cocktails abrufen
             Observable<String> cocktailIds = HttpUtilsRxJava.getResponseLinesRx("http://localhost:8080/cocktails")
@@ -27,9 +26,7 @@ public class CocktailClientWithRxJava {
             int totalMilk = cocktailIds
                     .flatMap(id -> {
                         System.out.println("id = " + id);
-                        return Observable.fromFuture(
-                                executor.submit(() -> getMilkAmount(id))
-                        );
+                        return getMilkAmount(id);
                     })
                     .reduce(Integer::sum)
                     .blockingGet();
@@ -39,18 +36,17 @@ public class CocktailClientWithRxJava {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-        // Executor herunterfahren
-        executor.shutdown();
     }
 
     // Methode, um die Menge an Milch in einem Cocktail zu ermitteln
-    private static int getMilkAmount(String cocktailId) throws Exception {
+    private static Observable<Integer> getMilkAmount(String cocktailId) throws Exception {
         return HttpUtilsRxJava.getResponseLinesRx("http://localhost:8080/cocktails/" + cocktailId)
                 .map(line -> line.split(" "))
                 .filter(parts -> parts[1].equalsIgnoreCase("milch"))
                 .map(parts -> Integer.parseInt(parts[0]))
-                .blockingFirst(); // Blockiert, bis der erste Eintrag gefunden wurde
+                .subscribeOn(Schedulers.io())
+                .firstElement()
+                .toObservable();
     }
 
 }
